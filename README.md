@@ -32,3 +32,7 @@ An interactive E-commerce Sales Dashboard developed using Microsoft Excel to ana
 
 ## Project File
 The completed Excel dashboard is available in this repository.
+
+## Dashboard Preview
+
+![E-commerce Dashboard](Ecommerce-Dashboard.png..png)
